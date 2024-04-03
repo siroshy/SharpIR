@@ -27,6 +27,6 @@ class sharpIR
     float Vmax;
     int pin;
 
-}
+};
 
 #endif
