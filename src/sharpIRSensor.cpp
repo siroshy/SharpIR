@@ -1,4 +1,4 @@
-#include "sharpIR.h"
+#include "sharpIRSensor.h"
 
 sharpIR::sharpIR(int pin, int sen)
 {
